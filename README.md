@@ -1,12 +1,12 @@
 # 介绍 Introduction
 
-Nocturne 是一个精美、优雅、干净的 Typora 主题。它可以让你专注于写作本身，享受 Markdown 编辑的乐趣。
+夜曲(Nocturne)是一款优雅精致、界面简洁的 Typora 暗色主题，采用深蓝色基调与柔光点缀，带来舒适夜间阅读体验。它能让你沉浸于写作本身，享受 Markdown 编辑的乐趣。
 
-Nocturne is an elegant, exquisite, and clean Typora theme. It allows you to focus on writing itself and delight in the joy of Markdown editing.
+Nocturne is an elegant, exquisite, and clean Typora dark theme, featuring deep blue colors and light accents for comfortable nighttime reading. It allows you to focus on writing itself and delight in the joy of Markdown editing. 
 
 
 
-Nocturne 是 Monologue 的暗黑主题。
+Nocturne 是 Monologue 的深色主题。
 
 Nocturne is the dark theme of Monologue.
 
