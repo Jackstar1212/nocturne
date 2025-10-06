@@ -14,7 +14,7 @@ Nocturne is the dark theme of Monologue.
 
 想要明亮主题？你可以在这里访问 Monologue 页面：[monologue](https://github.com/Jackstar1212/monologue)
 
-Want a bright theme? You can access monologue page here: [monologue] (https://github.com/Jackstar1212/monologue)
+Want a bright theme? You can access monologue page here: [monologue](https://github.com/Jackstar1212/monologue)
 
 
 ## 特性 Features
