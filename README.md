@@ -6,15 +6,15 @@ Nocturne is an elegant, exquisite, and clean Typora theme. It allows you to focu
 
 
 
-Nocturne 是 nocturne 的暗黑主题。
+Nocturne 是 Monologue 的暗黑主题。
 
-Nocturne is the dark theme of nocturne.
+Nocturne is the dark theme of Monologue.
 
 
 
-想要明亮主题？你可以在这里访问 Monologue 页面：[nocturne](https://github.com/Jackstar1212/monologue)
+想要明亮主题？你可以在这里访问 Monologue 页面：[monologue](https://github.com/Jackstar1212/monologue)
 
-Want a bright theme? You can access it here: [nocturne] (https://github.com/Jackstar1212/monologue)
+Want a bright theme? You can access monologue page here: [monologue] (https://github.com/Jackstar1212/monologue)
 
 
 ## 特性 Features
