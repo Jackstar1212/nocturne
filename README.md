@@ -12,8 +12,9 @@ Nocturne is the dark theme of nocturne.
 
 
 
-你可以在这里访问 nocturne 页面：[nocturne](https://github.com/Jackstar1212/nocturne)
+想要明亮主题？你可以在这里访问 Monologue 页面：[nocturne](https://github.com/Jackstar1212/monologue)
 
+Want a bright theme? You can access it here: [nocturne] (https://github.com/Jackstar1212/monologue)
 
 
 ## 特性 Features
