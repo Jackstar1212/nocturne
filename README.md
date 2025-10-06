@@ -79,6 +79,7 @@ Elegant and formal Source Serif typeface
 
 Download the latest release package, extract and copy the nocturne folder and nocturne.css file inside to the %APPDATA%\Typora\themes path.
 
-2. 运行 Typora，点击菜单栏的主题(T)，选择 nocturne 即可。
+2. 运行 Typora，点击菜单栏的主题(T)，选择 Nocturne 即可。
 
-Run Typora, click on Theme (T) in the menu bar, and select nocturne.
+Run Typora, click on Theme (T) in the menu bar, and select Nocturne.
+
