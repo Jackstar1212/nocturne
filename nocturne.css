@@ -2,7 +2,7 @@
 * Name: Nocturne
 * Author: Jackstar1212
 * Information: Nocturne is an elegant dark theme for Typora, featuring deep blue colors and light accents for comfortable nighttime reading.
-* Version: 1.0
+* Version: 1.1
 * License: MIT License
 */
 
@@ -898,4 +898,5 @@ footer.ty-footer {
 #footer-word-count:hover,
 .ty-show-word-count #footer-word-count {
     background: var(--bg-primary);
+
 }
