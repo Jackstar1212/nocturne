@@ -1,6 +1,6 @@
 # 介绍 Introduction
 
-Nocturne 是一个精美、优雅、干净的 typora 主题。它可以让你专注于写作本身，享受 Markdown 编辑的乐趣。
+Nocturne 是一个精美、优雅、干净的 Typora 主题。它可以让你专注于写作本身，享受 Markdown 编辑的乐趣。
 
 Nocturne is an elegant, exquisite, and clean Typora theme. It allows you to focus on writing itself and delight in the joy of Markdown editing.
 
