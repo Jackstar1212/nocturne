@@ -595,6 +595,15 @@ table tbody tr {
     transition: all var(--transition-duration) ease;
 }
 
+table caption+thead tr:first-child th,
+table caption+thead tr:first-child td,
+table colgroup+thead tr:first-child th,
+table colgroup+thead tr:first-child td,
+table thead:first-child tr:first-child th,
+table thead:first-child tr:first-child td {
+    border-top: 0;
+}
+
 /* 任务列表 */
 .md-task-list-item {
     position: relative;
@@ -898,5 +907,4 @@ footer.ty-footer {
 #footer-word-count:hover,
 .ty-show-word-count #footer-word-count {
     background: var(--bg-primary);
-
 }
