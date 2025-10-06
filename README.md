@@ -4,7 +4,7 @@
 
 Nocturne is an elegant, exquisite, and clean Typora dark theme, featuring deep blue colors and light accents for comfortable nighttime reading. It allows you to focus on writing itself and delight in the joy of Markdown editing. 
 
-
+![0](https://github.com/Jackstar1212/nocturne/blob/main/theme_introduction/0.png)
 
 Nocturne 是 Monologue 的深色主题。
 
