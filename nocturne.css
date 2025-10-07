@@ -202,6 +202,10 @@
     --title-text-shadow: 2px 2px 3px rgba(150, 180, 220, 0.15);
     --title-hover-lift: translateY(-2px);
     --title-hover-color: #356bbc;
+
+    --scrollbar-default-color: #172a45;
+    --scrollbar-hover-color: #395790;
+    --scrollbar-active-color: #2e3e6a;
 }
 
 /* 
@@ -908,4 +912,54 @@ footer.ty-footer {
 #footer-word-count:hover,
 .ty-show-word-count #footer-word-count {
     background: var(--bg-primary);
+}
+
+/* 滚动条 */
+/* 全局滚动条基础样式 */
+::-webkit-scrollbar {
+  width: 10px; /* 纵向滚动条宽度 */
+  height: 10px; /* 横向滚动条高度 */
+}
+
+/* 滑块基础样式 */
+::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-default-color);
+  border-radius: 5px;
+}
+
+/* 滑块 hover 效果 */
+::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-hover-color);
+}
+
+/* 滑块:active 状态 */
+::-webkit-scrollbar-thumb:active {
+  background: var(--scrollbar-active-color);
+}
+
+/* 纵向滚动条 */
+.typora-node::-webkit-scrollbar {
+  width: 10px;
+}
+.typora-node::-webkit-scrollbar-thumb:vertical {
+  background: var(--scrollbar-default-color);
+  border-radius: 5px;
+}
+.typora-node::-webkit-scrollbar-thumb:vertical:hover {
+  background: var(--scrollbar-hover-color);
+}
+.typora-node::-webkit-scrollbar-thumb:vertical:active {
+  background: var(--scrollbar-active-color);
+}
+
+/* 侧边栏横向滚动条 */
+#typora-sidebar:hover div.sidebar-content-content::-webkit-scrollbar-thumb:horizontal {
+  background: var(--scrollbar-default-color);
+  border-radius: 5px;
+}
+#typora-sidebar:hover div.sidebar-content-content::-webkit-scrollbar-thumb:horizontal:hover {
+  background: var(--scrollbar-hover-color);
+}
+#typora-sidebar:hover div.sidebar-content-content::-webkit-scrollbar-thumb:horizontal:active {
+  background: var(--scrollbar-active-color);
 }
